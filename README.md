@@ -42,7 +42,7 @@
 </details>
 
 
-<h1 class="about-the-project"><b><u>INTRODUCTION</u></b></h1>
+<h1 id="#about-the-project"><b><u>INTRODUCTION</u></b></h1>
 
 Crime preventions and criminal identification are the primary issues for the police personnel, since
 property and life protection are the basic concerns of the police but to combat the crime, the availability
