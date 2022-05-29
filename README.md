@@ -93,10 +93,10 @@ SQLite has great features such as standalone, serverless, zero configuration and
 
   ### Built With
 
-### Video Call Application: 
-* ![Front-end][Python Tkinter GUI]
-* ![Face_Recognition][Open CV]
-* ![Back-end][SQlite]
+### Eagle_Criminal_Identification_System: 
+* Front-end: Python Tkinter GUI
+* Face_Recognition: [Open Cv, os, image module and numpy
+* Back-end: SQlite
   
 <!-- AGILE METHODOLOGY -->
 ## Agile Methodology
