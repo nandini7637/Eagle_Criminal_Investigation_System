@@ -14,7 +14,6 @@
       <a href="#about-the-project">Intoduction</a>
       <ul>
         <li><a href="#project-methodology">Project Methodology</a></li>
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -97,6 +96,13 @@ threshold and compared to the gray value of the adjacent 8 pixels. If you are in
 SQLite has great features such as standalone, serverless, zero configuration and transaction.<br><br>
   <img src="https://user-images.githubusercontent.com/76876383/170830883-e7777988-63d3-4c10-9de1-8d4aaabf2ef8.png">
 
+  ### Built With
+
+### Video Call Application: 
+* ![Front-end][Python Tkinter GUI]
+* ![Face_Recognition][Open CV]
+* ![Back-end][SQlite]
+  
 
  <h1><b><u>PROCESS</u></b></h1>
    <u> <h3> Import the required modules </h3></u>
