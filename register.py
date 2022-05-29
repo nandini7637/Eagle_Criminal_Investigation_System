@@ -114,7 +114,7 @@ def mfileopen():
     image = image.resize((500, 500), Image.ANTIALIAS)
     photo = ImageTk.PhotoImage(image)
     photo_label = Label(image=photo, width=500,
-                        height=500).place(x=740, y=140).pack()
+                        height=500).place(x=70, y=130).pack()
     label_ = Label(root, text=file1, width=70, font=("bold", 8))
     label_.place(x=260, y=630)
 
