@@ -36,10 +36,6 @@
 
 ## About The Project
 
-Crime preventions and criminal identification are the primary issues for the police personnel, since
-property and life protection are the basic concerns of the police but to combat the crime, the availability
-of police personnel is limited.<br>
-
 The goal of this project is to identify history sheeters and provide a solution with
 higher accuracy, better response rate and an initial step for video surveillance. Solution is proposed
 based on nature of criminal psychic of repeating crime or involvement in it. This system is used to
@@ -48,12 +44,8 @@ track history sheeters and recognize them before and after any mischief or any u
 In the system we are storing the picture of criminal in the data set alongside its other detail to give 
 ease in information recovery and ensuring fast deployment of results in real world. The project is built on
 python with the use of OpenCV along with the algorithms like Haar cascade classifier, LBPH and
-face_recognition etc. to store the detail of person we have used SQLite.
-
-The criminal record contains details about a particular individual, along with photos and personal
-information. To identify a historian, you need to identify that person. One of the
-'s methods is face recognition. The face is the focus of our attention in social intercourse and plays an important
-role in communicating identity and emotions. The human ability to remember and recognize faces is noteworthy. The system aims to provide a real-time copy of a human identifier along with personal details
+face_recognition etc. to store the detail of person we have used SQLite.<br>
+ The human ability to remember and recognize faces is noteworthy. The system aims to provide a real-time copy of a human identifier along with personal details
 for efficient tracking of history sheeters. The criminal face recognition system
 creates a database of criminals and recognizes the person when their image matches an existing image in distributed environment
 . This project will be a milestone in video-based facial recognition and
@@ -142,6 +134,16 @@ $ cd Eagle_Criminal_Identification_System/eagle_criminal_identification_system
  * password = 123456 
   
   and voila you are ready to do some investigation!
+
+  - NOTE: In case you face issue in installing dlib python package, follow the given steps: 
+* pip install cmake
+* Install Visual Studio build tools from here.
+* In Visual Studio go to the Individual Components tab, Visual C++ Tools for Cmake, and check the checkbox under the "Compilers, build tools and runtimes" section.
+pip install dlib
+
+  -or
+  
+-Refer this video <a href="https://youtu.be/eaEndTeUiSU">Link</a>
   
    <h2><b><u>DETAILED PROCESS</u></b></h2>
    <u> <p> Import the required modules </p></u>
