@@ -1,4 +1,48 @@
-<h1><b><u>INTRODUCTION</u></b></h1>
+<h1 align="center">Microsoft Engage'22 Project
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
+</h1>
+
+<p align="center">
+ <a target="_blank" href="">Video Demo</a>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Intoduction</a>
+      <ul>
+        <li><a href="#salient-features">Salient Features</a></li>
+        <li><a href="#compatible-platforms">Compatible Platforms</a></li>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#agile-methodology">Agile Methodology</a>
+      <ul>
+        <li><a href="#what-is-agile">What is Agile</a></li>
+        <li><a href="#how-i-incorporated-agile-methodology-during-the-development-cycle">How I Incorporated Agile Methodology During The Development Cycle</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
+        <li><a href="#login">Login</a></li>
+        <li><a href="#chat-window">Chat Window</a></li>
+        <li><a href="#video-call">Video Call</a></li>
+      </ul>
+    <li><a href="#resources-used">Resources Used</a></li>
+  </ol>
+</details>
+
+
+<h1 class="about-the-project"><b><u>INTRODUCTION</u></b></h1>
 
 Crime preventions and criminal identification are the primary issues for the police personnel, since
 property and life protection are the basic concerns of the police but to combat the crime, the availability
