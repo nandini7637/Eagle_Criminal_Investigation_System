@@ -13,7 +13,7 @@
     <li>
       <a href="#about-the-project">Intoduction</a>
       <ul>
-        <li><a href="#salient-features">Salient Features</a></li>
+        <li><a href="#project-methodology">Project Methodology</a></li>
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -71,7 +71,7 @@ surveillance.<br><Br>
   <h2>Home Page</h2><br>
  <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png">
   
-  <h1><b><u>METHODOLOGY</u></b></h1>
+  ## METHODOLOGY
   
   <u> <h3> Face detection </h3></u>
 I have used OpenCV, which represents the Haar cascade classifier used for face detection. The
