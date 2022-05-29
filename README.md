@@ -31,7 +31,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
+    <li><a href="#navigating-through-the-app">Navigating through the Application</a></li><ul>
   </ol>
 </details>
 
@@ -95,7 +95,7 @@ SQLite has great features such as standalone, serverless, zero configuration and
 
 ### Eagle_Criminal_Identification_System: 
 * Front-end: Python Tkinter GUI
-* Face_Recognition: [Open Cv, os, image module and numpy
+* Face_Recognition: Open Cv, os, image module and numpy
 * Back-end: SQlite
   
 <!-- AGILE METHODOLOGY -->
@@ -144,7 +144,7 @@ Make sure to install the required dependencies from requirements.txt file
   <img src="https://user-images.githubusercontent.com/76876383/170855447-cd6ed8b0-36d2-49c0-9a74-0d49bc1663d2.png">
 
 <!-- APP TUTORIAL-->
-## Navigating Through The App
+## Navigating Through The Application
   
    <u> <h3> Login Page </h3></u>
   <img src="https://user-images.githubusercontent.com/76876383/170834987-c2286b46-0c75-45e5-a74a-9fb3282c802a.png">
