@@ -32,11 +32,6 @@
       </ul>
     </li>
     <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-        <li><a href="#login">Login</a></li>
-        <li><a href="#chat-window">Chat Window</a></li>
-        <li><a href="#video-call">Video Call</a></li>
-      </ul>
-    <li><a href="#resources-used">Resources Used</a></li>
   </ol>
 </details>
 
@@ -68,7 +63,7 @@ creates a database of criminals and recognizes the person when their image match
 . This project will be a milestone in video-based facial recognition and
 surveillance.<br><Br>
   <h2>Home Page</h2><br>
- <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png">
+ <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png" width="700"/>
   
   <!--Project Mthodology-->
 ## Project METHODOLOGY
@@ -94,7 +89,7 @@ threshold and compared to the gray value of the adjacent 8 pixels. If you are in
    <u> <h3> SQLite </h3></u>
   SQLite is a software library that provides a relational database management system. SQLite lights mean lightweight in terms of setup, database management, and required resources.
 SQLite has great features such as standalone, serverless, zero configuration and transaction.<br><br>
-  <img src="https://user-images.githubusercontent.com/76876383/170830883-e7777988-63d3-4c10-9de1-8d4aaabf2ef8.png">
+  <img src="https://user-images.githubusercontent.com/76876383/170830883-e7777988-63d3-4c10-9de1-8d4aaabf2ef8.png" width="700"/>
 
   ### Built With
 
@@ -103,33 +98,67 @@ SQLite has great features such as standalone, serverless, zero configuration and
 * ![Face_Recognition][Open CV]
 * ![Back-end][SQlite]
   
+<!-- AGILE METHODOLOGY -->
+## Agile Methodology
 
- <h1><b><u>PROCESS</u></b></h1>
-   <u> <h3> Import the required modules </h3></u>
-    <u> <h3>  Load the face detection Cascade </h3></u>
-    <u> <h3> Create the Face Recognizer Object</h3></u>
-    <u> <h3> Prepare the training set and Perform the training </h3></u>
-   <u> <h3> Testing  </h3></u>
+### What is Agile
+
+Agile software development refers to software development methodologies centered around the idea of iterative development. Agile promotes teamwork, flexible procedures, and sle-organizing teams.
+
+### How I Incorporated Agile Methodology During The Development Cycle
+
+* Sprint 1 (May 5): Sprint Planning, Research and Design - Researching about various open source libraries and algorithms for face detection and recognition. After finalizing OpenCv and LBP, I searched for tutorials, designed a basic UI.
+
+* Sprint 2 (May 13): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a machine learning model for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing
+
+* Sprint 3 (May 19): Debugging and adding additional features - My research phase helped me in decide how to implement the surprise 'adapt' feature. Decided to build a Live Surveillance feature and integerate in my application. Made changes in pre-loaded styles to complement the color scheme of the added log in authentication.
+  
+* Sprint 3 (May 25): Started debugging last moment bugs, collecting material for demo and finalising the project.
+  
+
+ <!-- INSTALLATIONS -->
+
+## Getting Started
+To install and run the project on your local system, following are the requirements:
+### Prerequisites
+Make sure to install the required dependencies from requirements.txt file
+```sh
+ pip install -r requirements.txt 
+```
+### Installation
+* Run the login.py file
+ * username=nandini_ag
+ * password = 123456 
+  
+  and voila you are ready to do some investigation!
+  
+   <h2><b><u>DETAILED PROCESS</u></b></h2>
+   <u> <p> Import the required modules </p></u>
+    <u> <p>  Load the face detection Cascade </p></u>
+    <u> <p> Create the Face Recognizer Object</p></u>
+    <u> <p> Prepare the training set and Perform the training </p></u>
+   <u> <p> Testing  </p></u>
+  
   
   <h1><b><u>Process flow diagram</u></b></h1>
   <img src="https://user-images.githubusercontent.com/76876383/170855447-cd6ed8b0-36d2-49c0-9a74-0d49bc1663d2.png">
 
-
-<h1><b><u>RESULTS</u></b></h1>
+<!-- APP TUTORIAL-->
+## Navigating Through The App
   
    <u> <h3> Login Page </h3></u>
   <img src="https://user-images.githubusercontent.com/76876383/170834987-c2286b46-0c75-45e5-a74a-9fb3282c802a.png">
   
    <u> <h3> Home Page </h3></u>
-  <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png">
+  <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png" width="700"/>
 
   <u> <h3> Register Criminal </h3></u>
-  <img src="https://user-images.githubusercontent.com/76876383/170852940-78000eb9-da0b-494d-bd01-d97d7e6fa817.png">
+  <img src="https://user-images.githubusercontent.com/76876383/170852940-78000eb9-da0b-494d-bd01-d97d7e6fa817.png" width="700"/>
   
 <u> <h3> Database Search </h3></u>
-<img src="https://user-images.githubusercontent.com/76876383/170852993-1b2a6981-f9a6-4e27-8cd8-796b7ea34f44.png">
-<img src="https://user-images.githubusercontent.com/76876383/170853021-2675aa51-500e-4ff5-b887-ed8f3b3a3e8e.png">
+<img src="https://user-images.githubusercontent.com/76876383/170852993-1b2a6981-f9a6-4e27-8cd8-796b7ea34f44.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/76876383/170853021-2675aa51-500e-4ff5-b887-ed8f3b3a3e8e.png" width="700"/>
   
   <u> <h3> Live Surveillance </h3></u>
-<img src="https://user-images.githubusercontent.com/76876383/170854674-b33f872c-b15c-4ae0-a8a6-872b9803d78a.png">
+<img src="https://user-images.githubusercontent.com/76876383/170854674-b33f872c-b15c-4ae0-a8a6-872b9803d78a.png" width="700"/>
 
