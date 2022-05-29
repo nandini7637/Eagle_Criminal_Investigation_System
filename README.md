@@ -41,7 +41,7 @@ higher accuracy, better response rate and an initial step for video surveillance
 based on nature of criminal psychic of repeating crime or involvement in it. This system is used to
 track history sheeters and recognize them before and after any mischief or any unlawful activity.<br>
 
-In the system we are storing the picture of criminal in the data set alongside its other detail to give 
+In the system I am storing the picture of criminal in the data set alongside its other detail to give 
 ease in information recovery and ensuring fast deployment of results in real world. The project is built on
 python with the use of OpenCV along with the algorithms like Haar cascade classifier, LBPH and
 face_recognition etc. to store the detail of person we have used SQLite.<br>
