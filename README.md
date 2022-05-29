@@ -109,7 +109,7 @@ Agile software development refers to software development methodologies centered
 
 * Sprint 3 (May 19): Debugging and adding additional features - My research phase helped me in decide how to implement the surprise 'adapt' feature. Decided to build a Live Surveillance feature and integerate in my application. Made changes in pre-loaded styles to complement the color scheme of the added log in authentication.
   
-* Sprint 3 (May 25): Started debugging last moment bugs, collecting material for demo and finalising the project.
+* Sprint 4 (May 25): Started debugging last moment bugs, collecting material for demo and finalising the project.
   
 
  <!-- INSTALLATIONS -->
@@ -118,7 +118,7 @@ Agile software development refers to software development methodologies centered
 To install and run the project on your local system, following are the requirements:
  - Clone the GitHub repository
 ``` sh
-$ git clone 
+$ git clone https://github.com/nandini7637/Eagle_Criminal_Investigation_System.git
 ```
  - Change directory to eagle_criminal_investigation_system
 ``` sh
