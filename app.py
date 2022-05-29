@@ -22,7 +22,7 @@ if __name__ == "__main__":
     root.geometry('1200x750')
     root.minsize(1200, 750)
     root.maxsize(1200, 750)
-    root.title("Eagle Criminal Identification System")
+    root.title("Eagle Criminal Investigation System")
     root.configure(bg="white")
     heading = Frame(root)
     frame = Frame(root)
@@ -86,12 +86,13 @@ update()
 # label_0.place(x=0, y=100)
 
 
-Button(root, text='CRIMINAL REGISTERATION', width=45, height=5, bg='grey',
-       fg='black', font=("bold", 13), command=register).place(x=750, y=180)
+
 Button(root, text='SEARCH DATABASE', width=45, height=5, bg='grey', fg='black',
-       font=("bold", 13), command=SearchDatabase).place(x=750, y=330)
+       font=("bold", 13), command=SearchDatabase).place(x=750, y=180)
 Button(root, text='LIVE SURVEILLANCE', width=45, height=5, bg='grey',
-       fg='black', font=("bold", 13), command=LiveSurveillance).place(x=750, y=480)
+       fg='black', font=("bold", 13), command=LiveSurveillance).place(x=750, y=330)
+Button(root, text='CRIMINAL REGISTERATION', width=45, height=5, bg='grey',
+       fg='black', font=("bold", 13), command=register).place(x=750, y=480)       
 
 
 root.mainloop()
