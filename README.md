@@ -94,9 +94,17 @@ SQLite has great features such as standalone, serverless, zero configuration and
   ### Built With
 
 ### Eagle_Criminal_Identification_System: 
-* Front-end: Python Tkinter GUI
-* Face_Recognition: Open Cv, os, image module and numpy
-* Back-end: SQlite
+  
+  <img src="https://user-images.githubusercontent.com/76876383/170869472-9b02dde6-7bf9-4685-8b81-9caf4c10942e.png" width="700"/>
+
+  ## Tech Stack Used:
+- OpenCV
+- face_recognition
+- Tkinter GUI
+- Image module
+- Numpy
+- SQlite
+- git
   
 <!-- AGILE METHODOLOGY -->
 ## Agile Methodology
