@@ -27,7 +27,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#navigating-through-the-app">Navigating through the Application</a></li><ul>
+    <li><a href="#navigating-through-the-application">Navigating through the Application</a></li><ul>
   </ol>
 </details>
 
