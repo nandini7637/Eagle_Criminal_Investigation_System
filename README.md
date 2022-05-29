@@ -51,7 +51,7 @@ creates a database of criminals and recognizes the person when their image match
 . This project will be a milestone in video-based facial recognition and
 surveillance.<br><Br>
   <h2>Home Page</h2><br>
- <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png" width="700"/>
+ <img src="https://user-images.githubusercontent.com/76876383/170870745-6776cb4d-04c9-42da-97c4-9e457ea77589.png" width="700"/>
   
   <!--Project Mthodology-->
 ## Project METHODOLOGY
@@ -81,7 +81,7 @@ SQLite has great features such as standalone, serverless, zero configuration and
 
   ### Built With
 
-### Eagle_Criminal_Identification_System: 
+### Eagle_Criminal_Investigation_System: 
   
   <img src="https://user-images.githubusercontent.com/76876383/170869472-9b02dde6-7bf9-4685-8b81-9caf4c10942e.png" width="700"/>
 
@@ -120,9 +120,9 @@ To install and run the project on your local system, following are the requireme
 ``` sh
 $ git clone 
 ```
- - Change directory to eagle_criminal_identification_system
+ - Change directory to eagle_criminal_investigation_system
 ``` sh
-$ cd Eagle_Criminal_Identification_System/eagle_criminal_identification_system
+$ cd Eagle_Criminal_Investigation_System/eagle_criminal_investigation_system
   ```
 - Make sure to install the required dependencies from requirements.txt file
 ``` sh
@@ -163,7 +163,7 @@ pip install dlib
   <img src="https://user-images.githubusercontent.com/76876383/170834987-c2286b46-0c75-45e5-a74a-9fb3282c802a.png">
   
    <u> <h3> Home Page </h3></u>
-  <img src="https://user-images.githubusercontent.com/76876383/170829944-e0318820-0e84-4de7-97d6-ba7a8b7c76b5.png" width="700"/>
+  <img src="https://user-images.githubusercontent.com/76876383/170870745-6776cb4d-04c9-42da-97c4-9e457ea77589.png" width="700"/>
 
   <u> <h3> Register Criminal </h3></u>
   <img src="https://user-images.githubusercontent.com/76876383/170852940-78000eb9-da0b-494d-bd01-d97d7e6fa817.png" width="700"/>
