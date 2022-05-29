@@ -81,7 +81,7 @@ SQLite has great features such as standalone, serverless, zero configuration and
 
   ### Built With
 
-### Eagle_Criminal_Identification_System: 
+### Eagle_Criminal_Investigation_System: 
   
   <img src="https://user-images.githubusercontent.com/76876383/170869472-9b02dde6-7bf9-4685-8b81-9caf4c10942e.png" width="700"/>
 
@@ -120,9 +120,9 @@ To install and run the project on your local system, following are the requireme
 ``` sh
 $ git clone 
 ```
- - Change directory to eagle_criminal_identification_system
+ - Change directory to eagle_criminal_investigation_system
 ``` sh
-$ cd Eagle_Criminal_Identification_System/eagle_criminal_identification_system
+$ cd Eagle_Criminal_Investigation_System/eagle_criminal_investigation_system
   ```
 - Make sure to install the required dependencies from requirements.txt file
 ``` sh
