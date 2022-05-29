@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a target="_blank" href="https://youtu.be/amwnQbqOSm0"><h2>Video Demo</h2></a>
+  <a href="https://youtu.be/amwnQbqOSm0" target="_blank"><h2>Video Demo</h2></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
