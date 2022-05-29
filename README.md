@@ -128,6 +128,13 @@ Agile software development refers to software development methodologies centered
 
 ## Getting Started
 To install and run the project on your local system, following are the requirements:
+ - Clone the GitHub repository
+``` sh
+$ git clone 
+```
+ - Change directory to eagle_criminal_identification_system
+``` sh
+$ cd Eagle_Criminal_Identification_System/eagle_criminal_identification_system
 ### Prerequisites
 Make sure to install the required dependencies from requirements.txt file
 ```sh
