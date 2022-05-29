@@ -176,7 +176,7 @@ pip install dlib
 <img src="https://user-images.githubusercontent.com/76876383/170854674-b33f872c-b15c-4ae0-a8a6-872b9803d78a.png" width="700"/>
 
 <h2><b><u>Future Scope of Improvements</u></b></h2>
--Light normalization may allow the threshold value to increase.
+-Light normalization may allow the threshold value to increase.<br>
 -Improvement of face recognition using specific character in the face
  and also analyse the face in 3D by using more than one camera. Using
 these two method the probability of error will decrease and system will be more accurate.
