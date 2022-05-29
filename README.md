@@ -103,11 +103,11 @@ Agile software development refers to software development methodologies centered
 
 ### How I Incorporated Agile Methodology During The Development Cycle
 
-* Sprint 1 (May 5): Sprint Planning, Research and Design - Researching about various open source libraries and algorithms for face detection and recognition. After finalizing OpenCv and LBP, I searched for tutorials, designed a basic UI.
+* Sprint 1 (May 5): Planning, Research and Design - Researching about various open source libraries and algorithms for face detection and recognition. After finalizing OpenCv and LBP, I searched for tutorials, designed a basic UI.
 
 * Sprint 2 (May 13): Software development and debugging - Started the development process by taking help from YouTube tutorials. Built a machine learning model for the first time. Encountered occasional bugs which I debugged timely. Made required changes in the UI and color scheme to make it more eye pleasing
 
-* Sprint 3 (May 19): Debugging and adding additional features - My research phase helped me in decide how to implement the surprise 'adapt' feature. Decided to build a Live Surveillance feature and integerate in my application. Made changes in pre-loaded styles to complement the color scheme of the added log in authentication.
+* Sprint 3 (May 19): Debugging and adding additional features - My research phase helped me in decide how to implement the surprise feature. Decided to build a Live Surveillance feature and integerate it in my application. Made changes styles and added log in authentication.
   
 * Sprint 4 (May 25): Started debugging last moment bugs, collecting material for demo and finalising the project.
   
@@ -175,3 +175,8 @@ pip install dlib
   <u> <h3> Live Surveillance </h3></u>
 <img src="https://user-images.githubusercontent.com/76876383/170854674-b33f872c-b15c-4ae0-a8a6-872b9803d78a.png" width="700"/>
 
+<h2><b><u>Future Scope of Improvements</u></b></h2>
+-Light normalization may allow the threshold value to increase.
+-Improvement of face recognition using specific character in the face
+ and also analyse the face in 3D by using more than one camera. Using
+these two method the probability of error will decrease and system will be more accurate.
