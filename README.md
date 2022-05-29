@@ -26,10 +26,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#navigating-through-the-app">Navigating through the Application</a></li><ul>
   </ol>
@@ -135,9 +131,9 @@ $ git clone
  - Change directory to eagle_criminal_identification_system
 ``` sh
 $ cd Eagle_Criminal_Identification_System/eagle_criminal_identification_system
-### Prerequisites
-Make sure to install the required dependencies from requirements.txt file
-```sh
+  ```
+- Make sure to install the required dependencies from requirements.txt file
+``` sh
  pip install -r requirements.txt 
 ```
 ### Installation
